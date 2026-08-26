@@ -193,5 +193,5 @@ public enum AsstTaskType : byte
     /// <summary>
     /// 干员培养
     /// </summary>
-    OperatorDevelopment,
+    AutoRaise,
 }
